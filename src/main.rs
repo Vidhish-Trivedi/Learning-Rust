@@ -6,5 +6,6 @@ fn main(){
     println!("Hello, World");
 
     // print::run();
-    variables::run();
+    // variables::run();
+    data_types::run();
 }
