@@ -2,7 +2,9 @@
 // mod variables;
 // mod data_types;
 // mod strings;
-mod tuples;
+// mod tuples;
+// mod arrays;
+mod vectors;
 
 fn main(){
     println!("Hello, World");
@@ -11,5 +13,7 @@ fn main(){
     // variables::run();
     // data_types::run();
     // strings::run();
-    tuples::run();
+    // tuples::run();
+    // arrays::run();
+    vectors::run();
 }
