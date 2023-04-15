@@ -7,7 +7,9 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod functions;
+// mod functions;
+// mod pointers;
+mod structs;
 
 fn main(){
     println!("Hello, World");
@@ -21,5 +23,7 @@ fn main(){
     // vectors::run();
     // conditionals::run();
     // loops::run();
-    functions::run();
+    // functions::run();
+    // pointers::run();
+    structs::run();
 }
